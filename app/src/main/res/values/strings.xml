@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My one Application</string>
+    <string name="entrar">entrar</string>
+    <string name="male">hombre</string>
+    <string name="female">mujer</string>
+
+</resources>
