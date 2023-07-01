@@ -3,5 +3,6 @@
     <string name="entrar">entrar</string>
     <string name="male">hombre</string>
     <string name="female">mujer</string>
+    <string name="height">Altura</string>
 
 </resources>
