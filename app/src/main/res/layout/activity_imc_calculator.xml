@@ -186,8 +186,6 @@
 
     </androidx.cardview.widget.CardView>
 
-
-
     <androidx.cardview.widget.CardView
         android:id="@+id/viewAge"
         android:layout_width="0dp"
@@ -252,5 +250,15 @@
 
 
     </androidx.cardview.widget.CardView>
+
+    <Button
+        android:id="@+id/btncalculate"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:text="@string/calculate"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
